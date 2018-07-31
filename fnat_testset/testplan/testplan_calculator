@@ -1,0 +1,7 @@
+[cases]
+
+default_app.calculator.test_calculator = 1
+default_app.calculator.test_calculator_loop = 3
+default_app.calculator.test_calculator_param : (formula=7+8, exp_result=15) = 1
+default_app.calculator.test_calculator_data : (data_file=calc.json) = 1
+

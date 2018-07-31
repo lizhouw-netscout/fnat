@@ -1,0 +1,53 @@
+[cases]
+
+lrg2.speed_duplex_test.testmethod_9 = 0
+lrg2.dhcp_test.testmethod_1 = 0
+lrg2.static_address.testmethod_1 = 10
+lrg2.static_address.testmethod_2 = 0
+lrg2.static_address.testmethod_3 = 0
+lrg2.static_address.testmethod_4 = 0
+lrg2.static_address.testmethod_5 = 0
+lrg2.static_address.testmethod_6 = 0
+lrg2.static_address.testmethod_7 = 0
+lrg2.static_address.testmethod_8 = 0
+lrg2.static_address.testmethod_9 = 0
+lrg2.static_address.testmethod_10 = 0
+lrg2.static_address.testmethod_11 = 0
+lrg2.static_address.testmethod_12 = 0
+lrg2.testgroup_10.testmethod_1 = 0
+lrg2.testgroup_1.testmethod_1 = 0
+lrg2.testgroup_1.testmethod_2 = 0
+lrg2.testgroup_1.testmethod_3 = 0
+lrg2.testgroup_1.testmethod_9 = 0
+lrg2.testgroup_1.testmethod_11 = 0
+lrg2.testgroup_1.testmethod_12 = 0
+lrg2.testgroup_1.testmethod_13 = 0
+lrg2.testgroup_1.testmethod_14 = 0
+lrg2.testgroup_1.testmethod_15 = 0
+lrg2.testgroup_1.testmethod_16 = 0
+lrg2.testgroup_1.testmethod_5 = 0
+lrg2.testgroup_1.testmethod_6 = 0
+lrg2.testgroup_1.testmethod_7 = 0
+lrg2.testgroup_1.testmethod_8 = 0
+lrg2.testgroup_1.testmethod_10 = 0
+lrg2.testgroup_2.testmethod_1 = 0
+lrg2.testgroup_2.testmethod_2 = 0
+lrg2.testgroup_2.testmethod_3 = 0
+lrg2.testgroup_3.testmethod_1 = 0
+lrg2.testgroup_4.testmethod_1 = 0
+lrg2.testgroup_4.testmethod_2 = 0
+lrg2.testgroup_4.testmethod_4 = 0
+lrg2.testgroup_4.testmethod_5 = 0
+lrg2.testgroup_4.testmethod_6 = 0
+lrg2.testgroup_4.testmethod_8 = 0
+lrg2.testgroup_4.testmethod_9 = 0
+lrg2.testgroup_4.testmethod_10 = 0
+lrg2.testgroup_4.testmethod_11 = 0
+lrg2.testgroup_4.testmethod_12 = 0
+lrg2.testgroup_4.testmethod_13 = 0
+lrg2.testgroup_5.testmethod_4 = 0
+lrg2.testgroup_5.testmethod_2 = 0
+lrg2.testgroup_5.testmethod_3 = 0
+lrg2.testgroup_7.testmethod_1 = 0
+
+

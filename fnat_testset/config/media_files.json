@@ -1,0 +1,10 @@
+{
+"data":[
+{  "name":"mp3_long",  "path":"media_store/long_duration.mp3",  "description":"It is a MP3 last 5 minutes" },
+{  "name":"mp3_short", "path":"media_store/short_duration.mp3", "description":"It is a MP3 last 1 minute"  },
+{  "name":"avi_long",  "path":"media_store/long_duration.avi",  "description":"It is a AVI last 5 minutes" },
+{  "name":"avi_short", "path":"media_store/short_duration.avi", "description":"It is a AVI last 1 minute"  },
+{  "name":"mid_long",  "path":"media_store/long_duration.mid",  "description":"It is a MIDI last 5 minutes" },
+{  "name":"mid_short", "path":"media_store/short_duration.mid", "description":"It is a MIDI last 1 minute"  }
+]
+}
